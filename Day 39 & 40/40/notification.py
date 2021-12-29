@@ -4,7 +4,7 @@ import html
 class Notfication:
 	def __init__(self,sent_to):
 		self.MY_EMAIL="csfun100@gmail.com"
-		self.PASSWORD="jaymikeejosh"
+		self.PASSWORD="mypassword"
 		self.SEND_TO=send_to #"boyijoshua72@gmail.com"
 		self.SUBJECT="Josh From Cheap Flight Club :)"
 		self.MESSAGE="Calculator \n Pomodoro Timer \n Blackjack Game \n Random user generator\
