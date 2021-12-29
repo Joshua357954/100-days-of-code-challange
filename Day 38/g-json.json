@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "josh-learn100",
+  "private_key_id": "be17dec20c2f511481a8c7f6a9dae2d8d89c455b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDtvWqw2lkudoUc\n/ZMxv++5CcpuTpL6Nx2tLFgaqRX/33OlfecZYV8jvu3LHoBYSXIJm/SRVpyt6/fH\nwj+Q9WbyuN3BeuxVBu4x7g/6zZ3Ntp1BFcaJmEEzuLpeDtB2hcM0APkvw+CU1wQr\nUaerA8lu92ghD8XvbsO1ylFAGuuOpT2I/fjZDHsqHQVfWGXm+ou4DOxh0eu1NTyk\nJ/LrlIp3yQsjtk4Hl1lNyFSHZK/XZ7ijLyYzuRdBZByWd32gGZk1/zYxs6dqxMJF\n2GQoR+JRvd9itYjGSZM3OqB5otNxJmvozk/RCGjGrGxj7yC5mH5beyw7v77/OkUi\nYIYEHK4vAgMBAAECggEAKhgjz/SZXdS2dQ+hBGoLtCO7qBRZidxAcO0tHGtb7dZO\nz7qfNKs9AUNJL3HTH87BVlo6z5EaZOEnGkOWpcAN3mRFP4DYX6W+fzC7u5i0nDv9\nVAza/nnq8ZF/zi+pUZMVoRubA44XMcNwhYsLuQgOnotH8LKuRVrDZGjSQhuCIdtg\nxb+gdy3Ze0SzemkW7pS3bH1nhK4a9vg7Z8kJeovoDhsvQqFr1cvcaJyZpVIJnyuA\n/sZxK6KfToiP82RDJ4Ji6lTjUil1MUdiuoIqR7zt3Nf8GgiC5c3xPJxSVz0p1orI\nHvqvyMR2OHmUbMxewLvku953JDu513+7uaGYTGvWwQKBgQD+nZsT/yQgmZVWwMbP\nLE3bGXDh8FdEop2VFlQE42ltB062sqv4gPNvQVHU2jCMNYfnwO5nXv4AZx8ZrxbJ\nqgvQwhO36UIsiOsY6oBwhXlqTTEaPBDeJ0oX5k7wmzlKSL85kFsxVkSWRYhChyI/\n+RnMaEeCr4rV3YdRWtbpUIREaQKBgQDvCFJuc8GwDLs+vmmsF4Q6snJM7zFqsGSY\no+EjhJBdBRmVLHVo3nOB0gWr2FzX+rZs2fhiqCvj6NU84dBG+6rlB0tKl5UOogk5\nxdYJepWD5Eyu3ltQYhcQe5jZADifwVGbJGlDSjl5zBDn+pwWjqqFTZUyAPr5075a\nYPeckZ4q1wKBgEaxU6FVsZ4rhj8z/v7+eg9fHOxeYpx32fDO5j0FNvxCjyRCr2Sr\nyOsW47WJbvk+06EQ/CBPS46pEwV6i4UqZWVsvTTO2sSqrzuXwFl9dZyCGiQCkVxc\n5EGGfFxpfJqXYCCHaApmvVxLqe1uv5+rdfI+8bvjKVT/0NZRtmHJLTAhAoGBAM9Y\nR7D6BqyBDrfJkn6uU4xbGJ0164bhhhGGLpiRuGyILP3id+JE/KtDFJpRb5AGMdJQ\nbY6e1Ju5b6eFNhcs3bwXzK7iuHDeC+SqgRTt2d5z3jTeOxWKUPmCTT8HWxbxKanL\nNugg7aSCaLPiBx3mGXLSrrWWdh7aF0fszz1ob2w3AoGBALDpwV0JpwgJpJi7gZS+\nwLXycsd7Vhje8lh9JEKfG35pPSgRmTKZi4Cc3Q2Z7kOwJmDbDAuQdv6aAYopHKEQ\n4Whd1DtdJOGd2zeux7rxMekpZsNGXumIbIbkZytM9QCmt9y/fU3r5ZO9/QcFT3lH\nx7d95cTRojcb39787dB0BExn\n-----END PRIVATE KEY-----\n",
+  "client_email": "jay-learn@josh-learn100.iam.gserviceaccount.com",
+  "client_id": "111053605177404347725",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jay-learn%40josh-learn100.iam.gserviceaccount.com"
+}
